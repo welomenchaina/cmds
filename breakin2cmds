@@ -29,6 +29,7 @@ TextLabel.TextSize = 16
 TextLabel.Font = Enum.Font.SourceSansBold
 TextLabel.Text = [[
 THERE IS A 0.5 SECOND DELAY BETWEEN EACH COMMAND USED the prefix is / like /healall
+You may have to rejoin if you do a lot of buggish commands dw you can rejoin the same server!
 prefix [string] (creator only command)
 admin [playername] (can use short name) (owner+ only command) (use command on same person again to remove rank)
 cmds
