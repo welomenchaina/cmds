@@ -28,7 +28,7 @@ TextLabel.TextYAlignment = Enum.TextYAlignment.Top
 TextLabel.TextSize = 16
 TextLabel.Font = Enum.Font.SourceSansBold
 TextLabel.Text = [[
-THERE IS A 0.5 SECOND DELAY BETWEEN EACH COMMAND USED
+THERE IS A 0.5 SECOND DELAY BETWEEN EACH COMMAND USED the prefix is / like /healall
 prefix [string] (creator only command)
 admin [playername] (can use short name) (owner+ only command) (use command on same person again to remove rank)
 cmds
